@@ -31,7 +31,7 @@ Persistent-timestamp Discord Rich Presence app.
 
 ## Security
 
-Regenerate any Discord client secret/bot token that was ever pasted into a chat, file, or committed to a repo, even briefly — treat it as compromised. Only the **Client ID** (not the secret) belongs in `.env`, and only for this RPC use case.
+Regenerate any Discord client secret/bot token that was ever pasted in chat or other places, file, or committed to a repo, even briefly — treat it as compromised. Only the **Client ID** (not the secret) belongs in `.env`, and only for this RPC use case.
 =======
 
 ## 🛠️ Setup & Installation
