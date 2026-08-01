@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Zeus St. Croix — Discord Rich Presence
 
 Persistent-timestamp Discord Rich Presence app.
@@ -34,19 +33,6 @@ Persistent-timestamp Discord Rich Presence app.
 
 Regenerate any Discord client secret/bot token that was ever pasted into a chat, file, or committed to a repo, even briefly — treat it as compromised. Only the **Client ID** (not the secret) belongs in `.env`, and only for this RPC use case.
 =======
-# [Your App Name]
-
-A custom Discord application designed to provide [brief description of what your app or Rich Presence does].
-
----
-
-## 🚀 Features
-
-* **Feature 1:** Brief description of feature 1.
-* **Feature 2:** Brief description of feature 2.
-* **Feature 3:** Brief description of feature 3.
-
----
 
 ## 🛠️ Setup & Installation
 
@@ -54,4 +40,3 @@ A custom Discord application designed to provide [brief description of what your
    ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
    cd your-repo-name
->>>>>>> 0005fcc76f262953399ab06c505df054d057dcc2
