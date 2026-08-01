@@ -1,0 +1,13 @@
+{
+  "name": "zeus-st-croix",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence with persistent elapsed timestamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
